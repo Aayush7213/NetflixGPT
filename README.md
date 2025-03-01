@@ -139,6 +139,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📞 Contact
 
-Aayush - [@YourTwitter](https://twitter.com/YourTwitter) - your.email@example.com
-
 Project Link: [https://github.com/Aayush7213/NetflixGPT](https://github.com/Aayush7213/NetflixGPT)
